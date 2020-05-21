@@ -1,0 +1,25 @@
+Sierra@sia494
+
+Caluculate the historical trends
+Total Return:
+
+total all returns
+
+Avg Return = total Return/tota1 days
+
+Bating Ratio= no. of postive/total= 
+Win/loss ratio = avg winner/Avg looser
+avg win = total win/total no. of wins
+
+
+ position sizing = max loss per trade/amount you can lose per share
+ purchase price = 14.04
+ stop loss price = 10.24
+ max loss per share = 3.80
+ how many shares can I buy= 
+ 
+ 5k = 250/3.80 = 66 shares
+ buy @ 66*14.04 = 927
+ loss @ 66* 10.24 = 676
+ max loss would be = 250.64 
+ 
